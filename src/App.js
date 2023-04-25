@@ -1,4 +1,3 @@
-import './App.css';
 import Authentication from './Authentication';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
